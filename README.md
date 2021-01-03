@@ -1,4 +1,4 @@
-# Unusal activity detection using Convolutional Auto Encoder by Learning Temporal Regularity
+# Unusual activity detection using Convolutional Auto Encoder by Learning Temporal Regularity
 
 Implementation of [Learning Temporal Regularity in Video Sequences
 ](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.pdf)
